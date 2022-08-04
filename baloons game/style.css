@@ -1,0 +1,262 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+#second{
+    margin-left: 3%;
+}
+#third{
+    margin-left: 3%;
+}
+#forth{
+    margin-left: 3%;
+}
+#fifth{
+    margin-left: 3%;
+}
+#six{
+    margin-left: 3%;
+}
+
+#ballons1 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons2 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons3 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons4 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons5 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+#ballons6 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons7 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons8 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons9 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons10 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+#ballons11 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons12 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons13 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons14 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons15 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+#ballons16 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons17 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons18 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons19 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons20 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+#ballons21 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons22 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons23 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons24 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons25 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+#ballons26 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons27 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons28 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons29 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
+
+#ballons30 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px
+}
