@@ -1,0 +1,323 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+#second{
+    margin-left: 3%;
+}
+#third{
+    margin-left: 3%;
+}
+#forth{
+    margin-left: 3%;
+}
+#fifth{
+    margin-left: 3%;
+}
+#six{
+    margin-left: 3%;
+}
+
+#ballons-1 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 3%;
+    border-radius:45px;
+    cursor:pointer;
+    background: aqua;
+
+}
+
+#ballons-2 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-3 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-4 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-5 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+#ballons-6 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-7 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-8 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-9 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-10 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+#ballons-11 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-12 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-13 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-14 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-15 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+#ballons-16 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-17 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-18 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-19 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-20 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+#ballons-21 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-22 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-23 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-24 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-25 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+#ballons-26 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-27 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-28 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-29 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
+
+#ballons-30 {
+    height: 100px;
+    border: 1px solid red;
+    width: 100px;
+    margin: 5%;
+    border-radius:45px;
+    cursor:pointer;
+
+}
